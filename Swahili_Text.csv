@@ -1,0 +1,735 @@
+Text,Label
+"""Nataka kujifunza zaidi kuhusu teknolojia.""",Normal
+"""Sisi sote ni ndugu na tunapaswa kusaidiana.""",Normal
+"""Leo ni siku nzuri ya kutembea nje.""",Normal
+"""Kila mtu anahitaji nafasi ya kusema mawazo yake.""",Normal
+"""Tunaweza kufanya kazi pamoja ili kufikia malengo yetu.""",Normal
+"""Ninapenda kusoma vitabu vya historia.""",Normal
+"""Jamii yetu inahitaji umoja na upendo.""",Normal
+"""Nina furaha kuwa na marafiki wazuri.""",Normal
+"""Kila mtu ana haki ya kuishi kwa amani.""",Normal
+"""Tunahitaji kujifunza kutoka kwa makosa yetu.""",Normal
+"""Huyu mtu ni mjinga sana.""",Offensive Language
+"""Sijui kwanini unajifanya kuwa bora kuliko wengine.""",Offensive Language
+"""Usijaribu kunifundisha, unajua chochote?""",Offensive Language
+"""Watu wengine ni wapumbavu kabisa.""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia.""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili!""",Offensive Language
+"""Kila wakati unaleta matatizo tu.""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu.""",Offensive Language
+"""Usijaribu kunionyesha, siwezi kukusikia.""",Offensive Language
+"""Kila mtu anajua wewe ni mnafiki.""",Offensive Language
+"""Watu wa kabila hili hawafai na wanapaswa kuondolewa.""",Hate Speech
+"""Tunahitaji kuondoa watu wa kabila hili kutoka nchi yetu.""",Hate Speech
+"""Watu wa dini hii ni wabaya na wanapaswa kufukuzwa.""",Hate Speech
+"""Hawa watu ni wapumbavu na hawastahili kuishi hapa.""",Hate Speech
+"""Tunaweza kufanikiwa tu ikiwa tutawafukuza hawa watu.""",Hate Speech
+"""Watu hawa wanaharibu jamii yetu, lazima tuwatoe mbali.""",Hate Speech
+"""Sisi ni bora kuliko watu wa kabila hili, wanapaswa kujua hilo.""",Hate Speech
+"""Hawa watu wanatuletea aibu, lazima tuwafanye waondoke.""",Hate Speech
+"""Hatupaswi kuwapa nafasi hawa watu katika jamii yetu.""",Hate Speech
+"""Tunahitaji kuwa na jamii safi bila hawa watu.""",Hate Speech
+"""Ninapenda kujifunza lugha mpya.""",Normal
+"""Jamii yetu inahitaji umoja na mshikamano.""",Normal
+"""Kila mtu ana haki ya kusema mawazo yake.""",Normal
+"""Tunahitaji kujenga mazingira safi kwa vizazi vijavyo.""",Normal
+"""Nina furaha kufanya kazi na watu wa aina mbalimbali.""",Normal
+"""Kila siku ni nafasi mpya ya kujifunza.""",Normal
+"""Nataka kuandika hadithi zangu mwenyewe.""",Normal
+"""Tunaweza kuboresha maisha yetu kwa kushirikiana.""",Normal
+"""Ninapenda kusoma vitabu vya sayansi.""",Normal
+"""Sisi ni sehemu ya jamii kubwa na tunapaswa kusaidiana.""",Normal
+"""Unajua nini? Huyu mtu ni mjinga kabisa!""",Offensive Language
+"""Usijaribu kunionyesha, unajua chochote?""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia.""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili!""",Offensive Language
+"""Kila wakati unaleta matatizo tu.""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu.""",Offensive Language
+"""Huyu mtu anafaa kuwa na aibu kwa matendo yake.""",Offensive Language
+"""Sijui kwanini unajifanya kuwa bora kuliko wengine.""",Offensive Language
+"""Watu wengine ni wapumbavu kabisa.""",Offensive Language
+"""Kila mtu anajua wewe ni mnafiki.""",Offensive Language
+"""Watu wa kabila hili hawafai na wanapaswa kuondolewa.""",Hate Speech
+"""Tunahitaji kuondoa watu wa kabila hili kutoka nchi yetu.""",Hate Speech
+"""Watu wa dini hii ni wabaya na wanapaswa kufukuzwa.""",Hate Speech
+"""Hawa watu ni wapumbavu na hawastahili kuishi hapa.""",Hate Speech
+"""Tunaweza kufanikiwa tu ikiwa tutawafukuza hawa watu.""",Hate Speech
+"""Watu hawa wanaharibu jamii yetu, lazima tuwatoe mbali.""",Hate Speech
+"""Sisi ni bora kuliko watu wa kabila hili, wanapaswa kujua hilo.""",Hate Speech
+"""Hawa watu wanatuletea aibu, lazima tuwafanye waondoke.""",Hate Speech
+"""Hatupaswi kuwapa nafasi hawa watu katika jamii yetu.""",Hate Speech
+"""Tunahitaji kuwa na jamii safi bila hawa watu.""",Hate Speech
+"""Ninapenda kujifunza kuhusu historia ya Kiswahili.""",Normal
+"""Jamii yetu inahitaji umoja na upendo.""",Normal
+"""Kila mtu anapaswa kuwa na sauti katika jamii.""",Normal
+"""Tunahitaji kushirikiana ili kufanikisha malengo yetu.""",Normal
+"""Nina furaha kuwa na marafiki wengi.""",Normal
+"""Kila siku ni nafasi mpya ya kujifunza.""",Normal
+"""Nataka kuandika hadithi zangu mwenyewe.""",Normal
+"""Tunaweza kuboresha maisha yetu kwa kushirikiana.""",Normal
+"""Ninapenda kusoma vitabu vya sayansi.""",Normal
+"""Sisi ni sehemu ya jamii kubwa na tunapaswa kusaidiana.""",Normal
+"""Huyu mtu ni mjinga sana, siwezi kumwamini!""",Offensive Language
+"""Sijui kwanini unajifanya kuwa bora kuliko wengine.""",Offensive Language
+"""Usijaribu kunifundisha, unajua chochote?""",Offensive Language
+"""Watu wengine ni wapumbavu kabisa!""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia.""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili!""",Offensive Language
+"""Kila wakati unaleta matatizo tu.""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu.""",Offensive Language
+"""Usijaribu kunionyesha, siwezi kukusikia.""",Offensive Language
+"""Kila mtu anajua wewe ni mnafiki.""",Offensive Language
+"""Watu wa kabila hili hawafai na wanapaswa kuondolewa.""",Hate Speech
+"""Tunahitaji kuondoa watu wa kabila hili kutoka nchi yetu.""",Hate Speech
+"""Watu wa dini hii ni wabaya na wanapaswa kufukuzwa.""",Hate Speech
+"""Hawa watu ni wapumbavu na hawastahili kuishi hapa.""",Hate Speech
+"""Tunaweza kufanikiwa tu ikiwa tutawafukuza hawa watu.""",Hate Speech
+"""Watu hawa wanaharibu jamii yetu, lazima tuwatoe mbali.""",Hate Speech
+"""Sisi ni bora kuliko watu wa kabila hili, wanapaswa kujua hilo.""",Hate Speech
+"""Hawa watu wanatuletea aibu, lazima tuwafanye waondoke.""",Hate Speech
+"""Hatupaswi kuwapa nafasi hawa watu katika jamii yetu.""",Hate Speech
+"""Tunahitaji kuwa na jamii safi bila hawa watu.""",Hate Speech
+"""Ninapenda kujifunza kuhusu sayansi ya kompyuta.""",Normal
+"""Jamii yetu inahitaji ushirikiano wa karibu.""",Normal
+"""Kila mtu ana haki ya kuishi kwa amani.""",Normal
+"""Tunahitaji kujenga mazingira bora kwa watoto wetu.""",Normal
+"""Nina furaha kuwa na familia yangu.""",Normal
+"""Kila siku ni nafasi mpya ya kujifunza.""",Normal
+"""Nataka kuandika insha kuhusu maisha yangu.""",Normal
+"""Tunaweza kushirikiana ili kufikia malengo yetu.""",Normal
+"""Ninapenda kusoma vitabu vya hadithi.""",Normal
+"""Sisi sote ni sehemu ya jamii moja.""",Normal
+"""Huyu mtu ni mjinga sana, hana akili!""",Offensive Language
+"""Usijaribu kunifundisha, unajua chochote?""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia.""",Offensive Language
+"""Watu wengine ni wapumbavu kabisa!""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili!""",Offensive Language
+"""Kila wakati unaleta matatizo tu.""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu.""",Offensive Language
+"""Usijaribu kunionyesha, siwezi kukusikia.""",Offensive Language
+"""Kila mtu anajua wewe ni mnafiki.""",Offensive Language
+"""Huyu mtu anafaa kuwa na aibu kwa matendo yake.""",Offensive Language
+"""Watu wa kabila hili hawafai na wanapaswa kuondolewa.""",Hate Speech
+"""Tunahitaji kuondoa watu wa kabila hili kutoka nchi yetu.""",Hate Speech
+"""Watu wa dini hii ni wabaya na wanapaswa kufukuzwa.""",Hate Speech
+"""Hawa watu ni wapumbavu na hawastahili kuishi hapa.""",Hate Speech
+"""Tunaweza kufanikiwa tu ikiwa tutawafukuza hawa watu.""",Hate Speech
+"""Watu hawa wanaharibu jamii yetu, lazima tuwatoe mbali.""",Hate Speech
+"""Sisi ni bora kuliko watu wa kabila hili, wanapaswa kujua hilo.""",Hate Speech
+"""Hawa watu wanatuletea aibu, lazima tuwafanye waondoke.""",Hate Speech
+"""Hatupaswi kuwapa nafasi hawa watu katika jamii yetu.""",Hate Speech
+"""Tunahitaji kuwa na jamii safi bila hawa watu.""",Hate Speech
+"""Ninapenda kufanya kazi katika mazingira mazuri.""",Normal
+"""Kila mtu anahitaji nafasi ya kusema mawazo yake.""",Normal
+"""Jamii yetu inahitaji umoja na mshikamano.""",Normal
+"""Ninapenda kupika na kushiriki chakula na marafiki zangu.""",Normal
+"""Tunahitaji kujifunza kutoka kwa makosa yetu ya zamani.""",Normal
+"""Nataka kuwa mhandisi siku moja.""",Normal
+"""Sisi sote tunapaswa kusaidiana katika nyakati ngumu.""",Normal
+"""Nina furaha kuwa sehemu ya timu hii ya kazi.""",Normal
+"""Kila mtu ana mchango wake katika jamii yetu.""",Normal
+"""Tunahitaji kuwa na mazungumzo mazuri ili kuelewana zaidi.""",Normal
+"""Huyu mtu anajifanya kuwa bora kuliko wengine, si kweli!""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia sana!""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu, siwezi kukusikia!""",Offensive Language
+"""Watu wengine wanakera sana, hawana adabu!""",Offensive Language
+"""Usijaribu kunionyesha kwamba unajua kila kitu!""",Offensive Language
+"""Kila wakati unaleta matatizo tu, unachanganya mambo!""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili, si unajua?""",Offensive Language
+"""Wewe ni mnafiki, kila mtu anajua hilo!""",Offensive Language
+"""Huyu mtu haelewi chochote, ni mjinga kabisa!""",Offensive Language
+"""Watu wa kabila hili hawana maana katika jamii hii!""",Hate Speech
+"""Ninapenda kujifunza kuhusu sayansi ya kompyuta.""",Normal
+"""Jamii yetu inahitaji ushirikiano wa karibu.""",Normal
+"""Kila mtu ana haki ya kuishi kwa amani.""",Normal
+"""Tunahitaji kujenga mazingira bora kwa watoto wetu.""",Normal
+"""Nina furaha kuwa na familia yangu.""",Normal
+"""Kila siku ni nafasi mpya ya kujifunza.""",Normal
+"""Nataka kuandika insha kuhusu maisha yangu.""",Normal
+"""Tunaweza kushirikiana ili kufikia malengo yetu.""",Normal
+"""Ninapenda kusoma vitabu vya hadithi.""",Normal
+"""Sisi sote ni sehemu ya jamii moja.""",Normal
+"""Huyu mtu ni mjinga sana, siwezi kumwamini!""",Offensive Language
+"""Usijaribu kunifundisha, unajua chochote?""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia.""",Offensive Language
+"""Watu wengine ni wapumbavu kabisa!""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili!""",Offensive Language
+"""Kila wakati unaleta matatizo tu.""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu.""",Offensive Language
+"""Usijaribu kunionyesha, siwezi kukusikia.""",Offensive Language
+"""Kila mtu anajua wewe ni mnafiki.""",Offensive Language
+"""Huyu mtu anafaa kuwa na aibu kwa matendo yake.""",Offensive Language
+"""Watu wa kabila hili hawafai na wanapaswa kuondolewa.""",Hate Speech
+"""Tunahitaji kuondoa watu wa kabila hili kutoka nchi yetu.""",Hate Speech
+"""Watu wa dini hii ni wabaya na wanapaswa kufukuzwa.""",Hate Speech
+"""Hawa watu ni wapumbavu na hawastahili kuishi hapa.""",Hate Speech
+"""Tunaweza kufanikiwa tu ikiwa tutawafukuza hawa watu.""",Hate Speech
+"""Watu hawa wanaharibu jamii yetu, lazima tuwatoe mbali.""",Hate Speech
+"""Sisi ni bora kuliko watu wa kabila hili, wanapaswa kujua hilo.""",Hate Speech
+"""Hawa watu wanatuletea aibu, lazima tuwafanye waondoke.""",Hate Speech
+"""Hatupaswi kuwapa nafasi hawa watu katika jamii yetu.""",Hate Speech
+"""Ninapenda kujifunza kuhusu mazingira.""",Normal
+"""Sisi sote tunapaswa kusaidia wenzetu.""",Normal
+"""Kila mtu ana haki ya kuzungumza.""",Normal
+"""Tunahitaji umoja ili kufikia malengo yetu.""",Normal
+"""Nina furaha kuwa na marafiki wa kweli.""",Normal
+"""Kila siku ni nafasi ya kujifunza kitu kipya.""",Normal
+"""Nataka kutembelea maeneo mapya.""",Normal
+"""Tunaweza kufanya mabadiliko chanya katika jamii.""",Normal
+"""Ninapenda kusoma vitabu vya hadithi.""",Normal
+"""Jamii yetu inahitaji ushirikiano wa dhati.""",Normal
+"""Huyu mtu ni mjinga sana, siwezi kumwamini!""",Offensive Language
+"""Usijaribu kunifundisha, unajua chochote?""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia.""",Offensive Language
+"""Watu wengine ni wapumbavu kabisa!""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili!""",Offensive Language
+"""Kila wakati unaleta matatizo tu.""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu.""",Offensive Language
+"""Usijaribu kunionyesha, siwezi kukusikia.""",Offensive Language
+"""Kila mtu anajua wewe ni mnafiki.""",Offensive Language
+"""Huyu mtu anafaa kuwa na aibu kwa matendo yake.""",Offensive Language
+"""Watu wa kabila hili hawafai na wanapaswa kuondolewa.""",Hate Speech
+"""Tunahitaji kuondoa watu wa kabila hili kutoka nchi yetu.""",Hate Speech
+"""Watu wa dini hii ni wabaya na wanapaswa kufukuzwa.""",Hate Speech
+"""Hawa watu ni wapumbavu na hawastahili kuishi hapa.""",Hate Speech
+"""Tunaweza kufanikiwa tu ikiwa tutawafukuza hawa watu.""",Hate Speech
+"""Watu hawa wanaharibu jamii yetu, lazima tuwatoe mbali.""",Hate Speech
+"""Sisi ni bora kuliko watu wa kabila hili, wanapaswa kujua hilo.""",Hate Speech
+"""Hawa watu wanatuletea aibu, lazima tuwafanye waondoke.""",Hate Speech
+"""Hatupaswi kuwapa nafasi hawa watu katika jamii yetu.""",Hate Speech
+"""Tunahitaji kuwa na jamii safi bila hawa watu.""",Hate Speech
+"""Ninapenda kufanya kazi na watu wenye mawazo chanya.""",Normal
+"""Kila mtu anahitaji nafasi ya kusema mawazo yake.""",Normal
+"""Jamii yetu inahitaji umoja na mshikamano.""",Normal
+"""Ninapenda kupika na kushiriki chakula na marafiki zangu.""",Normal
+"""Tunahitaji kujifunza kutoka kwa makosa yetu ya zamani.""",Normal
+"""Nataka kuwa mhandisi siku moja.""",Normal
+"""Sisi sote tunapaswa kusaidiana katika nyakati ngumu.""",Normal
+"""Nina furaha kuwa sehemu ya timu hii ya kazi.""",Normal
+"""Kila mtu ana mchango wake katika jamii yetu.""",Normal
+"""Tunahitaji kuwa na mazungumzo mazuri ili kuelewana zaidi.""",Normal
+"""Huyu mtu anajifanya kuwa bora kuliko wengine, si kweli!""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia sana!""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu, siwezi kukusikia!""",Offensive Language
+"""Watu wengine wanakera sana, hawana adabu!""",Offensive Language
+"""Usijaribu kunionyesha kwamba unajua kila kitu!""",Offensive Language
+"""Kila wakati unaleta matatizo tu, unachanganya mambo!""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili, si unajua?""",Offensive Language
+"""Wewe ni mnafiki, kila mtu anajua hilo!""",Offensive Language
+"""Nimefurahia picha yako ya mwisho, ni nzuri sana!""",Normal
+"""Umeandika vizuri sana, nishauri zaidi.""",Normal
+"""Ningependa kujua zaidi kuhusu mada hii.""",Normal
+"""Sasa hivi, kila mtu anahitaji msaada wa kiakili.""",Normal
+"""Ninafurahia mazungumzo haya kwenye mtandao.""",Normal
+"""Picha hii inabeba ujumbe mzuri sana.""",Normal
+"""Ningependa kushiriki mawazo yangu kuhusu hili.""",Normal
+"""Mtu yeyote anayeweza kusaidia, tafadhali nijulishe!""",Normal
+"""Nimejifunza mengi kutoka kwenye majadiliano haya.""",Normal
+"""Tunaweza kuboresha jamii yetu kupitia mazungumzo kama haya.""",Normal
+"""Huyu mtu ni mjinga, anajifanya anajua kila kitu!""",Offensive Language
+"""Usijaribu kunifundisha, unajua chochote?""",Offensive Language
+"""Kila wakati unaleta matatizo tu, siwezi kukusikia!""",Offensive Language
+"""Watu wengine ni wapumbavu sana!""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili!""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu.""",Offensive Language
+"""Huyu mtu anafaa kuwa na aibu kwa matendo yake.""",Offensive Language
+"""Usijaribu kunionyesha, siwezi kukusikia.""",Offensive Language
+"""Kila mtu anajua wewe ni mnafiki.""",Offensive Language
+"""Huyu mtu haelewi chochote, ni mjinga kabisa!""",Offensive Language
+"""Watu wa kabila hili hawafai na wanapaswa kuondolewa.""",Hate Speech
+"""Tunahitaji kuondoa watu wa kabila hili kutoka nchi yetu.""",Hate Speech
+"""Watu wa dini hii ni wabaya na wanapaswa kufukuzwa.""",Hate Speech
+"""Hawa watu ni wapumbavu na hawastahili kuishi hapa.""",Hate Speech
+"""Tunaweza kufanikiwa tu ikiwa tutawafukuza hawa watu.""",Hate Speech
+"""Watu hawa wanaharibu jamii yetu, lazima tuwatoe mbali.""",Hate Speech
+"""Sisi ni bora kuliko watu wa kabila hili, wanapaswa kujua hilo.""",Hate Speech
+"""Hawa watu wanatuletea aibu, lazima tuwafanye waondoke.""",Hate Speech
+"""Hatupaswi kuwapa nafasi hawa watu katika jamii yetu.""",Hate Speech
+"""Tunahitaji kuwa na jamii safi bila hawa watu.""",Hate Speech
+"""Nimefurahia maoni yako kuhusu suala hili!""",Normal
+"""Kila mtu anahitaji nafasi ya kusema mawazo yake.""",Normal
+"""Jamii yetu inahitaji umoja na mshikamano.""",Normal
+"""Ninapenda kupika na kushiriki chakula na marafiki zangu.""",Normal
+"""Tunahitaji kujifunza kutoka kwa makosa yetu ya zamani.""",Normal
+"""Nataka kuwa mhandisi siku moja.""",Normal
+"""Sisi sote tunapaswa kusaidiana katika nyakati ngumu.""",Normal
+"""Nina furaha kuwa sehemu ya timu hii ya kazi.""",Normal
+"""Kila mtu ana mchango wake katika jamii yetu.""",Normal
+"""Tunahitaji kuwa na mazungumzo mazuri ili kuelewana zaidi.""",Normal
+"""Nimefurahia sana picha zako za likizo!""",Normal
+"""Ningependa kujua zaidi kuhusu mada hii.""",Normal
+"""Kila mtu ana haki ya kusema mawazo yake.""",Normal
+"""Tunahitaji umoja ili kufikia malengo yetu.""",Normal
+"""Ninapenda mazungumzo haya, yanatufundisha mengi.""",Normal
+"""Nina furaha kuwa na marafiki wengi.""",Normal
+"""Kila siku ni nafasi mpya ya kujifunza.""",Normal
+"""Nataka kutembelea maeneo mapya.""",Normal
+"""Tunaweza kufanya mabadiliko chanya katika jamii.""",Normal
+"""Ninapenda kusoma vitabu vya hadithi.""",Normal
+"""Huyu mtu ni mjinga sana, anajifanya anajua kila kitu!""",Offensive Language
+"""Usijaribu kunifundisha, unajua chochote?""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia.""",Offensive Language
+"""Watu wengine ni wapumbavu sana!""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili!""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu.""",Offensive Language
+"""Huyu mtu anafaa kuwa na aibu kwa matendo yake.""",Offensive Language
+"""Usijaribu kunionyesha, siwezi kukusikia.""",Offensive Language
+"""Kila mtu anajua wewe ni mnafiki.""",Offensive Language
+"""Huyu mtu haelewi chochote, ni mjinga kabisa!""",Offensive Language
+"""Watu wa kabila hili hawafai na wanapaswa kuondolewa.""",Hate Speech
+"""Tunahitaji kuondoa watu wa kabila hili kutoka nchi yetu.""",Hate Speech
+"""Watu wa dini hii ni wabaya na wanapaswa kufukuzwa.""",Hate Speech
+"""Hawa watu ni wapumbavu na hawastahili kuishi hapa.""",Hate Speech
+"""Tunaweza kufanikiwa tu ikiwa tutawafukuza hawa watu.""",Hate Speech
+"""Watu hawa wanaharibu jamii yetu, lazima tuwatoe mbali.""",Hate Speech
+"""Sisi ni bora kuliko watu wa kabila hili, wanapaswa kujua hilo.""",Hate Speech
+"""Hawa watu wanatuletea aibu, lazima tuwafanye waondoke.""",Hate Speech
+"""Hatupaswi kuwapa nafasi hawa watu katika jamii yetu.""",Hate Speech
+"""Tunahitaji kuwa na jamii safi bila hawa watu.""",Hate Speech
+"""Nimefurahia maoni yako kuhusu suala hili!""",Normal
+"""Kila mtu anahitaji nafasi ya kusema mawazo yake.""",Normal
+"""Jamii yetu inahitaji umoja na mshikamano.""",Normal
+"""Ninapenda kupika na kushiriki chakula na marafiki zangu.""",Normal
+"""Tunahitaji kujifunza kutoka kwa makosa yetu ya zamani.""",Normal
+"""Nataka kuwa mhandisi siku moja.""",Normal
+"""Sisi sote tunapaswa kusaidiana katika nyakati ngumu.""",Normal
+"""Nina furaha kuwa sehemu ya timu hii ya kazi.""",Normal
+"""Kila mtu ana mchango wake katika jamii yetu.""",Normal
+"""Tunahitaji kuwa na mazungumzo mazuri ili kuelewana zaidi.""",Normal
+"""Huyu mtu anajifanya kuwa bora kuliko wengine, si kweli!""",Offensive Language
+"""Sijali kama unakosea, wewe ni wa kupuuzia sana!""",Offensive Language
+"""Unajua nini? Wewe ni mzigo kwangu, siwezi kukusikia!""",Offensive Language
+"""Watu wengine wanakera sana, hawana adabu!""",Offensive Language
+"""Usijaribu kunionyesha kwamba unajua kila kitu!""",Offensive Language
+"""Kila wakati unaleta matatizo tu, unachanganya mambo!""",Offensive Language
+"""Hata huwezi kufanya jambo rahisi kama hili, si unajua?""",Offensive Language
+"""Wewe ni mnafiki, kila mtu anajua hilo!""",Offensive Language
+"""Amani""",Normal
+"""Ushirikiano""",Normal
+"""Furaha""",Normal
+"""Maendeleo""",Normal
+"""Upendo""",Normal
+"""Hekima""",Normal
+"""Nafasi""",Normal
+"""Ushindi""",Normal
+"""Kujifunza""",Normal
+"""Jumuia""",Normal
+"""Mjinga""",Offensive Language
+"""Kichwa""",Offensive Language
+"""Wajinga""",Offensive Language
+"""Pumbavu""",Offensive Language
+"""Kashfa""",Offensive Language
+"""Ujinga""",Offensive Language
+"""Mkatili""",Offensive Language
+"""Kukosa""",Offensive Language
+"""Kukashifu""",Offensive Language
+"""Chuki""",Offensive Language
+"""Wanaume""",Hate Speech
+"""Wanafunzi""",Hate Speech
+"""Wakabila""",Hate Speech
+"""Wabaguzi""",Hate Speech
+"""Vikundi""",Hate Speech
+"""Waasi""",Hate Speech
+"""Vikosi""",Hate Speech
+"""Wachawi""",Hate Speech
+"""Wajinga""",Hate Speech
+"""Wanaume""",Hate Speech
+"""Sawasawa""",Normal
+"""Nzuri""",Normal
+"""Furahia""",Normal
+"""Kujitambua""",Normal
+"""Ushirikiano""",Normal
+"""Tafakari""",Normal
+"""Msaada""",Normal
+"""Ufanisi""",Normal
+"""Kujifunza""",Normal
+"""Amani""",Normal
+"""Jinga""",Offensive Language
+"""Kichaa""",Offensive Language
+"""Mpumbavu""",Offensive Language
+"""Kashfa""",Offensive Language
+"""Mkatili""",Offensive Language
+"""Ujinga""",Offensive Language
+"""Mchokozi""",Offensive Language
+"""Chokozi""",Offensive Language
+"""Kukashifu""",Offensive Language
+"""Chuki""",Offensive Language
+"""Wanaume""",Hate Speech
+"""Wanafunzi""",Hate Speech
+"""Wakabila""",Hate Speech
+"""Wabaguzi""",Hate Speech
+"""Vikundi""",Hate Speech
+"""Waasi""",Hate Speech
+"""Wachawi""",Hate Speech
+"""Wajinga""",Hate Speech
+"""Wanaume""",Hate Speech
+"""Chuki""",Hate Speech
+"""Upeo""",Normal
+"""Furaha""",Normal
+"""Nafasi""",Normal
+"""Msaada""",Normal
+"""Sawa""",Normal
+"""Ufanisi""",Normal
+"""Kujifunza""",Normal
+"""Rafiki""",Normal
+"""Maendeleo""",Normal
+"""Tafakari""",Normal
+"""Kichwa""",Offensive Language
+"""Wajinga""",Offensive Language
+"""Pumbavu""",Offensive Language
+"""Kashfa""",Offensive Language
+"""Mkatili""",Offensive Language
+"""Ujinga""",Offensive Language
+"""Chuki""",Offensive Language
+"""Mpumbavu""",Offensive Language
+"""Kichaa""",Offensive Language
+"""Bwege""",Offensive Language
+"""Chuki""",Hate Speech
+"""Wanaume""",Hate Speech
+"""Wanafunzi""",Hate Speech
+"""Wakabila""",Hate Speech
+"""Wabaguzi""",Hate Speech
+"""Waasi""",Hate Speech
+"""Wachawi""",Hate Speech
+"""Wanaume""",Hate Speech
+"""Mchokozi""",Hate Speech
+"""Vikosi""",Hate Speech
+"""Msaada wa jamii""",Normal
+"""Furaha kubwa""",Normal
+"""Ushirikiano ni muhimu""",Normal
+"""Kujifunza kila siku""",Normal
+"""Maendeleo ya pamoja""",Normal
+"""Nafasi nzuri""",Normal
+"""Tafakari kuhusu maisha""",Normal
+"""Rafiki wa kweli""",Normal
+"""Mwalimu mzuri""",Normal
+"""Ufanisi wa kazi""",Normal
+"""Huyu ni mjinga""",Offensive Language
+"""Kichwa cha habari""",Offensive Language
+"""Wajinga wa mitandaoni""",Offensive Language
+"""Pumbavu kama wewe""",Offensive Language
+"""Kashfa ya kisiasa""",Offensive Language
+"""Mkatili wa mtaa""",Offensive Language
+"""Ujinga wa wazi""",Offensive Language
+"""Chuki na dhuluma""",Offensive Language
+"""Mpumbavu kabisa""",Offensive Language
+"""Kichaa wa mitandao""",Offensive Language
+"""Chuki ya kikabila""",Hate Speech
+"""Wanaume wa kabila""",Hate Speech
+"""Wanafunzi wa chuki""",Hate Speech
+"""Wakabila ni wabaguzi""",Hate Speech
+"""Vikundi vya chuki""",Hate Speech
+"""Waasi wa jamii""",Hate Speech
+"""Wachawi wa kisiasa""",Hate Speech
+"""Wanaume hawastahili""",Hate Speech
+"""Vikosi vya ghasia""",Hate Speech
+"""Msaada wa jamii""",Normal
+"""Furaha kubwa""",Normal
+"""Ushirikiano ni muhimu""",Normal
+"""Kujifunza kila siku""",Normal
+"""Maendeleo ya pamoja""",Normal
+"""Nafasi nzuri""",Normal
+"""Tafakari kuhusu maisha""",Normal
+"""Rafiki wa kweli""",Normal
+"""Mwalimu mzuri""",Normal
+"""Ufanisi wa kazi""",Normal
+"""Huyu ni mjinga""",Offensive Language
+"""Kichwa cha habari""",Offensive Language
+"""Wajinga wa mitandaoni""",Offensive Language
+"""Pumbavu kama wewe""",Offensive Language
+"""Kashfa ya kisiasa""",Offensive Language
+"""Mkatili wa mtaa""",Offensive Language
+"""Ujinga wa wazi""",Offensive Language
+"""Chuki na dhuluma""",Offensive Language
+"""Mpumbavu kabisa""",Offensive Language
+"""Kichaa wa mitandao""",Offensive Language
+"""Chuki ya kikabila""",Hate Speech
+"""Wanaume wa kabila""",Hate Speech
+"""Wanafunzi wa chuki""",Hate Speech
+"""Wakabila ni wabaguzi""",Hate Speech
+"""Vikundi vya chuki""",Hate Speech
+"""Waasi wa jamii""",Hate Speech
+"""Wachawi wa kisiasa""",Hate Speech
+"""Wanaume hawastahili""",Hate Speech
+"""Vikosi vya ghasia""",Hate Speech
+"""Nafasi nzuri""",Normal
+"""Ushirikiano wa dhati""",Normal
+"""Furaha kubwa""",Normal
+"""Maendeleo ya jamii""",Normal
+"""Watu wazuri""",Normal
+"""Kujifunza pamoja""",Normal
+"""Sawa kabisa""",Normal
+"""Msaada wa haraka""",Normal
+"""Kujitambua vizuri""",Normal
+"""Tafakari kwa kina""",Normal
+"""Huyu ni mjinga""",Offensive Language
+"""Kichwa ngumu""",Offensive Language
+"""Mtu mpumbavu""",Offensive Language
+"""Wajinga wengi""",Offensive Language
+"""Kashfa kubwa""",Offensive Language
+"""Ujinga wa kisiasa""",Offensive Language
+"""Chuki kali""",Offensive Language
+"""Mchokozi wa mitandao""",Offensive Language
+"""Kukashifu hadharani""",Offensive Language
+"""Huyu ni kipande""",Offensive Language
+"""Chuki za kikabila""",Hate Speech
+"""Wanaume wabaguzi""",Hate Speech
+"""Wanafunzi wa kabila""",Hate Speech
+"""Vikundi vya chuki""",Hate Speech
+"""Watu waasi""",Hate Speech
+"""Wachawi wa kisiasa""",Hate Speech
+"""Vikosi vya uhalifu""",Hate Speech
+"""Wanaume wanyanyasaji""",Hate Speech
+"""Mchokozi wa umma""",Hate Speech
+"""Nafasi nzuri""",Normal
+"""Msaada wa haraka""",Normal
+"""Furaha kubwa""",Normal
+"""Maendeleo ya jamii""",Normal
+"""Watu wazuri""",Normal
+"""Kujifunza pamoja""",Normal
+"""Sawa kabisa""",Normal
+"""Watu wema""",Normal
+"""Tafakari kwa kina""",Normal
+"""Kujitambua vizuri""",Normal
+"""Huyu ni mjinga""",Offensive Language
+"""Kichwa ngumu""",Offensive Language
+"""Mtu mpumbavu""",Offensive Language
+"""Wajinga wengi""",Offensive Language
+"""Kashfa kubwa""",Offensive Language
+"""Ujinga wa kisiasa""",Offensive Language
+"""Chuki kali""",Offensive Language
+"""Mchokozi wa mitandao""",Offensive Language
+"""Kukashifu hadharani""",Offensive Language
+"""Huyu ni kipande""",Offensive Language
+"""Chuki za kikabila""",Hate Speech
+"""Wanaume wabaguzi""",Hate Speech
+"""Wanafunzi wa kabila""",Hate Speech
+"""Vikundi vya chuki""",Hate Speech
+"""Watu waasi""",Hate Speech
+"""Wachawi wa kisiasa""",Hate Speech
+"""Vikosi vya uhalifu""",Hate Speech
+"""Wanaume wanyanyasaji""",Hate Speech
+"""Mchokozi wa umma""",Hate Speech
+"""Amani ya Mungu""",Normal
+"""Imani thabiti""",Normal
+"""Wito wa huduma""",Normal
+"""Upendo wa Kristo""",Normal
+"""Sala za pamoja""",Normal
+"""Neno la Mungu""",Normal
+"""Tumaini la milele""",Normal
+"""Hakika ya wokovu""",Normal
+"""Baraka nyingi""",Normal
+"""Mtu mwema""",Normal
+"""Kufuru kubwa""",Offensive Language
+"""Kuchukia dini""",Offensive Language
+"""Mtu mnyanyasaji""",Offensive Language
+"""Watu waovu""",Offensive Language
+"""Shetani anashinda""",Offensive Language
+"""Uasi wa imani""",Offensive Language
+"""Kukana ukweli""",Offensive Language
+"""Chuki za kidini""",Offensive Language
+"""Kukashifu dini""",Offensive Language
+"""Watu waasi""",Hate Speech
+"""Vikundi vya chuki""",Hate Speech
+"""Wanaume wabaguzi""",Hate Speech
+"""Vikosi vya uhalifu""",Hate Speech
+"""Mchokozi wa imani""",Hate Speech
+"""Wachawi wa kidini""",Hate Speech
+"""Chuki za kikabila""",Hate Speech
+"""Ukatili wa kidini""",Hate Speech
+"""Wanaume wanyanyasaji""",Hate Speech
+"""Kuzungumza wazi""",Normal
+"""Hotuba ya matumaini""",Normal
+"""Maoni mazuri""",Normal
+"""Kujieleza vizuri""",Normal
+"""Mjadala wa amani""",Normal
+"""Ujumbe wa upendo""",Normal
+"""Kuheshimu wengine""",Normal
+"""Wito wa umoja""",Normal
+"""Kujifunza pamoja""",Normal
+"""Sauti ya umma""",Normal
+"""Kukashifu hadhara""",Offensive Language
+"""Mtu mbaya""",Offensive Language
+"""Wajinga wengi""",Offensive Language
+"""Kichwa ngumu""",Offensive Language
+"""Ujinga wa kisiasa""",Offensive Language
+"""Chuki kali""",Offensive Language
+"""Mchokozi wa mitandao""",Offensive Language
+"""Kukashifu hadharani""",Offensive Language
+"""Sasa hivi, unajua?""",Offensive Language
+"""Chuki za kijinsia""",Hate Speech
+"""Wanaume wabaguzi""",Hate Speech
+"""Wanafunzi wa kabila""",Hate Speech
+"""Vikundi vya chuki""",Hate Speech
+"""Watu waasi""",Hate Speech
+"""Vikosi vya uhalifu""",Hate Speech
+"""Wachawi wa kisiasa""",Hate Speech
+"""Chuki za kikabila""",Hate Speech
+"""Ukatili wa kidini""",Hate Speech
+"""Kuzungumza kwa uwazi zaidi""",Normal
+"""Hotuba ya matumaini kwa wote""",Normal
+"""Maoni mazuri kutoka kwako""",Normal
+"""Kujieleza kwa njia bora""",Normal
+"""Mjadala wa amani na upendo""",Normal
+"""Ujumbe wa upendo na umoja""",Normal
+"""Kuheshimu mawazo ya wengine""",Normal
+"""Wito wa umoja na mshikamano""",Normal
+"""Kujifunza pamoja ni bora""",Normal
+"""Sauti ya umma inahitajika""",Normal
+"""Kukashifu hadhara ni mbaya""",Offensive Language
+"""Mtu mbaya anajifanya mzuri""",Offensive Language
+"""Wajinga wengi wanakera sana""",Offensive Language
+"""Kichwa ngumu ni tatizo""",Offensive Language
+"""Ujinga wa kisiasa haukubaliki""",Offensive Language
+"""Chuki kali si suluhisho""",Offensive Language
+"""Mchokozi wa mitandao ni hatari""",Offensive Language
+"""Kukashifu hadharani ni kosa""",Offensive Language
+"""Sasa hivi, unajua nini?""",Offensive Language
+"""Chuki za kijinsia ni mbaya""",Hate Speech
+"""Wanaume wabaguzi hawastahili""",Hate Speech
+"""Wanafunzi wa kabila fulani""",Hate Speech
+"""Vikundi vya chuki vinaharibu""",Hate Speech
+"""Watu waasi wanahitaji kusimamishwa""",Hate Speech
+"""Vikosi vya uhalifu ni hatari""",Hate Speech
+"""Wachawi wa kisiasa wanaharibu""",Hate Speech
+"""Chuki za kikabila zinasababisha machafuko""",Hate Speech
+"""Ukatili wa kidini haukubaliki""",Hate Speech
+"""Kuzungumza kwa uwazi zaidi""",Normal
+"""Hotuba ya matumaini kwa wote""",Normal
+"""Maoni mazuri kutoka kwako""",Normal
+"""Kujieleza kwa njia bora""",Normal
+"""Mjadala wa amani na upendo""",Normal
+"""Ujumbe wa upendo na umoja""",Normal
+"""Kuheshimu mawazo ya wengine""",Normal
+"""Wito wa umoja na mshikamano""",Normal
+"""Kujifunza pamoja ni bora""",Normal
+"""Sauti ya umma inahitajika""",Normal
+"""Mungu ni Mwema""",Normal
+"""Kukashifu hadhara ni mbaya""",Offensive Language
+"""Mtu mbaya anajifanya mzuri""",Offensive Language
+"""Wajinga wengi wanakera sana""",Offensive Language
+"""Kichwa ngumu ni tatizo""",Offensive Language
+"""Ujinga wa kisiasa haukubaliki""",Offensive Language
+"""Chuki kali si suluhisho""",Offensive Language
+"""Mchokozi wa mitandao ni hatari""",Offensive Language
+"""Kukashifu hadharani ni kosa""",Offensive Language
+"""Sasa hivi, unajua nini?""",Offensive Language
+"""Chuki za kijinsia ni mbaya""",Hate Speech
+"""Wanaume wabaguzi hawastahili""",Hate Speech
+"""Wanafunzi wa kabila fulani""",Hate Speech
+"""Vikundi vya chuki vinaharibu""",Hate Speech
+"""Watu waasi wanahitaji kusimamishwa""",Hate Speech
+"""Vikosi vya uhalifu ni hatari""",Hate Speech
+"""Wachawi wa kisiasa wanaharibu""",Hate Speech
+"""Chuki za kikabila zinasababisha machafuko""",Hate Speech
+"""Ukatili wa kidini haukubaliki""",Hate Speech
+"""Mungu ni mwema""",Normal
+"""Sisi ni familia""",Normal
+"""Kujifunza ni muhimu""",Normal
+"""Upendo ni nguvu""",Normal
+"""Amani ni msingi""",Normal
+"""Watu ni sawa""",Normal
+"""Hekima ni muhimu""",Normal
+"""Kazi ni ngumu""",Normal
+"""Chakula ni kitamu""",Normal
+"""Elimu ni ufunguo""",Normal
+"""Huyu ni mjinga""",Offensive Language
+"""Wewe ni kipande""",Offensive Language
+"""Yeye ni mpumbavu""",Offensive Language
+"""Kichwa chako ni ngumu""",Offensive Language
+"""Mtu huyu ni mnyanyasaji""",Offensive Language
+"""Ujinga huu ni wa ajabu""",Offensive Language
+"""Wajinga wengi ni wasumbufu""",Offensive Language
+"""Chuki ni hatari""",Offensive Language
+"""Huyu si mtu mzuri""",Offensive Language
+"""Wanaume ni waasi""",Hate Speech
+"""Wanafunzi wa kabila hili hawafai""",Hate Speech
+"""Watu hawa ni wabaguzi""",Hate Speech
+"""Vikundi vya chuki ni hatari""",Hate Speech
+"""Watu wa dini hii hawastahili kuishi""",Hate Speech
+"""Chuki za kikabila ni mbaya sana""",Hate Speech
+"""Hawa watu ni wapumbavu""",Hate Speech
+"""Mchokozi huyu si mzuri kwa jamii yetu""",Hate Speech
+"""Chuki hizi ni za kisiasa""",Hate Speech
+"""Elimu ni msingi wa maendeleo""",Normal
+"""Amani ni muhimu kwa jamii""",Normal
+"""Watu ni sawa mbele ya sheria""",Normal
+"""Kazi ni fursa ya kujifunza""",Normal
+"""Upendo ni nguvu ya maisha""",Normal
+"""Mtu ni kioo cha jamii""",Normal
+"""Hekima ni hazina kubwa""",Normal
+"""Safari ni ndefu lakini inafaa""",Normal
+"""Chakula ni muhimu kwa afya""",Normal
+"""Sanaa ni njia ya kujieleza""",Normal
+"""Huyu ni mnafiki""",Offensive Language
+"""Yeye ni kipande cha shida""",Offensive Language
+"""Kichwa chako ni ngumu sana""",Offensive Language
+"""Wajinga wengi ni wasumbufu sana""",Offensive Language
+"""Mtu huyu ni mnyanyasaji wa kijamii""",Offensive Language
+"""Ujinga huu ni hatari kwa jamii""",Offensive Language
+"""Chuki ni silaha mbaya""",Offensive Language
+"""Huyu si mtu mzuri kwa jamii""",Offensive Language
+"""Wanaume hawa ni wabaguzi""",Hate Speech
+"""Wanafunzi wa kabila hili hawafai""",Hate Speech
+"""Watu hawa ni vichaa""",Hate Speech
+"""Vikundi vya chuki ni hatari sana""",Hate Speech
+"""Watu wa dini hii hawastahili kuishi""",Hate Speech
+"""Chuki za kikabila ni mbaya sana""",Hate Speech
+"""Hawa watu ni wapumbavu na wanaharibu""",Hate Speech
+"""Mchokozi huyu si mzuri kwa jamii yetu""",Hate Speech
+"""Chuki hizi ni za kisiasa na za kibaguzi""",Hate Speech
+"""Maisha ni mazuri""",Normal
+"""Watu ni wazuri""",Normal
+"""Mtu mzuri sana""",Normal
+"""Chakula hiki ni kizuri""",Normal
+"""Sanaa ni mzuri sana""",Normal
+"""Kazi yako ni nzuri""",Normal
+"""Jambo hili ni zuri""",Normal
+"""Elimu ni nzuri kwa watoto""",Normal
+"""Maji ni mazuri kwa afya""",Normal
+"""Ushirikiano ni mzuri""",Normal
+"""Huyu ni mnafiki mzuri""",Offensive Language
+"""Yeye ni mzuri lakini mbaya""",Offensive Language
+"""Kichwa chako ni kizuri lakini ngumu""",Offensive Language
+"""Wajinga wengi ni wazuri kwa majukumu""",Offensive Language
+"""Mtu huyu ana tabia nzuri lakini mbaya""",Offensive Language
+"""Ujinga huu ni mzuri lakini hatari""",Offensive Language
+"""Chuki si mzuri kwa jamii""",Offensive Language
+"""Huyu si mtu mzuri kwa jamii""",Offensive Language
+"""Wanaume hawa ni wazuri lakini wabaguzi""",Hate Speech
+"""Wanafunzi wa kabila hili si wazuri""",Hate Speech
+"""Watu hawa ni wazuri lakini waasi""",Hate Speech
+"""Vikundi vya chuki si vizuri kabisa""",Hate Speech
+"""Watu wa dini hii si wazuri kuishi hapa""",Hate Speech
+"""Chuki za kikabila si nzuri kabisa""",Hate Speech
+"""Hawa watu ni wapumbavu na wanaharibu mzuri""",Hate Speech
+"""Mchokozi huyu si mzuri kwa jamii yetu""",Hate Speech
+"""Chuki hizi si nzuri kwa maendeleo yetu""",Hate Speech
+"""Wewe ni rafiki yangu""",Normal
+"""Ningependa kukujua wewe""",Normal
+"""Wewe ni mtu mzuri""",Normal
+"""Wewe unastahili heshima""",Normal
+"""Wewe ni mfano bora""",Normal
+"""Nafasi yako ni muhimu wewe""",Normal
+"""Wewe ni sehemu ya familia""",Normal
+"""Wewe unajua mengi""",Normal
+"""Wewe ni jasiri sana""",Normal
+"""Wewe ni kiongozi mzuri""",Normal
+"""Wewe ni mjinga sana""",Offensive Language
+"""Usijaribu kunifundisha wewe""",Offensive Language
+"""Wewe si chochote""",Offensive Language
+"""Hata wewe ni kipande cha tatizo""",Offensive Language
+"""Wewe unachanganya mambo""",Offensive Language
+"""Kila wakati wewe unaleta matatizo""",Offensive Language
+"""Sijali kuhusu wewe tena""",Offensive Language
+"""Huyu si wewe, ni mnafiki""",Offensive Language
+"""Wewe ni wa kupuuzia""",Offensive Language
+"""Wanaume hawa wanakera, wewe pia!""",Hate Speech
+"""Wewe huwezi kuelewa watu wa kabila hili""",Hate Speech
+"""Watu hawa ni wabaguzi, wewe pia!""",Hate Speech
+"""Chuki zako hazifai, wewe unajua hilo!""",Hate Speech
+"""Hawa watu wa dini hii hawastahili, wewe!""",Hate Speech
+"""Chuki za kikabila zinaanzia na wewe!""",Hate Speech
+"""Hawa watu si wazuri, wewe ni miongoni mwao""",Hate Speech
+"""Mtu huyu si mzuri, wewe unafanana naye!""",Hate Speech
+"""Ukatili wa kijamii unatokana na wewe!""",Hate Speech
